@@ -19,7 +19,7 @@
 何もしない
 > CONTEXT MPS:Dungeon/events/1/pages/1/2/Choices < UNTRANSLATED
 > CONTEXT MPS:SampleMapB/events/5/pages/1/2/Choices < UNTRANSLATED
-
+Do nothing
 > END STRING
 
 > BEGIN STRING
@@ -34,45 +34,49 @@
 　これを手にする者には試練が降りかかる」
 と書いてある。
 > CONTEXT MPS:Dungeon/events/3/pages/1/1/Message < UNTRANSLATED
-
+「『WOLF RPG Editor』
+　A trial falls upon those who possess this」
+is written here。
 > END STRING
 
 > BEGIN STRING
 開ける
 > CONTEXT MPS:Dungeon/events/3/pages/1/2/Choices < UNTRANSLATED
-
+Open it
 > END STRING
 
 > BEGIN STRING
 まだ開けない
 > CONTEXT MPS:Dungeon/events/3/pages/1/2/Choices < UNTRANSLATED
-
+Don't open it
 > END STRING
 
 > BEGIN STRING
 ”そなたらがウディタを手にするのに
 　ふさわしい者かどうか、その力で示せ！”
 > CONTEXT MPS:Dungeon/events/3/pages/1/7/Message < UNTRANSLATED
-
+Are you suitable to possess ウディタ?
+Show me your worth!
 > END STRING
 
 > BEGIN STRING
 ”10ターン以内に
 　\\r[我,わ]が\\r[輩,はい]を倒してみせるのだ！”
 > CONTEXT MPS:Dungeon/events/3/pages/1/8/Message < UNTRANSLATED
-
+”Within 10 turns,
+　\\r[我,わ]が\\r[輩,はい] defeat them！”
 > END STRING
 
 > BEGIN STRING
 ”おめでとう、君たちの勝ちだ”
 > CONTEXT MPS:Dungeon/events/3/pages/1/16/Message < UNTRANSLATED
-
+”Congratulations! You win!”
 > END STRING
 
 > BEGIN STRING
 ”これを使って、存分に世界を創造するがいい……”
 > CONTEXT MPS:Dungeon/events/3/pages/1/17/Message < UNTRANSLATED
-
+”Using this, you can create great opportunities in the world....”
 > END STRING
 
 > BEGIN STRING
@@ -86,7 +90,8 @@
 これはマップで使うことができるぞ！
 やってみよう！
 > CONTEXT MPS:Dungeon/events/3/pages/1/24/Message < UNTRANSLATED
-
+This can be used from the map！
+Let's try it！
 > END STRING
 
 > BEGIN STRING
@@ -100,17 +105,19 @@
 　何か買ってくぅ？それとも、セ・エ・ブ？
 　うふっ♪
 > CONTEXT MPS:Dungeon/events/4/pages/1/1/Message < UNTRANSLATED
-
+「Welcome!！
+　Have you come to buy something nice？Or、セ・エ・ブ？
+　うふっ♪
 > END STRING
 
 > BEGIN STRING
 ショップ
 > CONTEXT MPS:Dungeon/events/4/pages/1/2/Choices < UNTRANSLATED
-
+Shop
 > END STRING
 
 > BEGIN STRING
 セーブで
 > CONTEXT MPS:Dungeon/events/4/pages/1/2/Choices < UNTRANSLATED
-
+Save
 > END STRING
